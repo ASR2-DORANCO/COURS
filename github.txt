@@ -1,5 +1,7 @@
-mail : asr2.doranco@gmail.com
-stagiaire
+https://www.github.com/ASR2-DORANCO/Cours
 
 Username Github : ASR2-DORANCO
-ASR2Stagiaire
+Mot de passe Github : ASR2Stagiaire
+
+mail associé au compte : asr2.doranco@gmail.com
+mot de passe de l'adresse mail : stagiaire
